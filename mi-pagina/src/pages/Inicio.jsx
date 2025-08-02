@@ -1,5 +1,5 @@
 import logo from "../assets/logo.jpg";
-
+import Presentacion from "../components/Presentacion";
 export default function Inicio() {
   return (
     <div className="main-container">
@@ -8,11 +8,7 @@ export default function Inicio() {
 
         <h1>Bienvenido a World Of Ayrton</h1>
         <h2>¿Qué es esta página?</h2>
-        <p>
-          Este sitio es un espacio personal donde compartiré mis proyectos,
-          avances y conocimientos como estudiante de Licenciatura en
-          Informática.
-        </p>
+        <Presentacion />
 
         <p>
           Aquí voy estar compartiendo mi experiencia personal como estudiante y

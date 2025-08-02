@@ -3,7 +3,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  height: 100%;
+
+  min-height: 100vh; /* Ocupa al menos toda la altura visible */
   display: flex;
   flex-direction: column;
 }
@@ -42,6 +43,10 @@
 
 .read-the-docs {
   color: #888;
+}
+
+main {
+  flex: 1;
 }
 
 .footer {
