@@ -6,6 +6,12 @@ export default function Presentacion() {
         Este sitio es un espacio personal donde compartiré mis proyectos,
         avances y conocimientos como estudiante de Licenciatura en Informática.
       </p>
+
+      <p>
+        Aquí voy estar compartiendo mi experiencia personal como estudiante y en
+        un futuro como Licenciado en Informática, el camino es largo pero no
+        debes bajar los brazos cuando todo parezca que sale mal.
+      </p>
     </section>
   );
 }
