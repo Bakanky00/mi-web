@@ -30,7 +30,7 @@ main {
 /* Estilo del fondo */
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-image: url("./assets/Luffy.jpg");
+  background-color: #087b8fee;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
